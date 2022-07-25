@@ -5,13 +5,6 @@
 # 100% IJO🎉
 # Support 32/64 bit
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
-Logo Facebook 🔥
-![deskripsi gambar](https://i.ibb.co/mR77crG/Screenshot-2022-07-17-11-27-29-805-com-termux.png)
-Logo Instagram 🔥
-![deskripsi gambar](https://i.ibb.co/nzrNY3n/Screenshot-2022-07-19-15-07-30-575-com-termux.png)
-Hasil Crack 🔥
-![deskripsi gambar](https://i.ibb.co/kh3JQSB/Screenshot-2022-07-19-23-45-48-956-com-termux.png)
-Gambar hanya pemanis ☠️
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
